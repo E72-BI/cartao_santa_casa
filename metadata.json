@@ -1,0 +1,7 @@
+{
+  "name": "Santa Casa de Maceió - Cartão de Descontos",
+  "description": "Um portal exclusivo para beneficiários do cartão de descontos da Santa Casa de Maceió, permitindo consulta de benefícios e gestão administrativa via upload de planilhas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
